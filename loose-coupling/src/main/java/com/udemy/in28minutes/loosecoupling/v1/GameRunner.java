@@ -1,5 +1,8 @@
 package com.udemy.in28minutes.loosecoupling.v1;
 
+/* 
+ * GameRunner has to have dedicated methods for each type of game.
+ */
 public class GameRunner {
 	
 	private Mario mario;
